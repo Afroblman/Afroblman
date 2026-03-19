@@ -56,7 +56,7 @@ I am a passionate Full-Stack developer. My journey in web development began with
 </a>
 
 <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" width="36" height="36" alt="JWT" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtoken/jsonwebtoken-original.svg" width="36" height="36" alt="JWT" />
 </a>
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
